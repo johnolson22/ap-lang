@@ -1,4 +1,9 @@
+body{
+    background:url("http://www.destadesign.com/destacms/images/background_border_left.png") left repeat-y,url("http://www.destadesign.com/destacms/images/background_border_right.png") right repeat-y;
+}
+
 h1{
-    color: crimson;
+    color: rgb(165, 1, 1);
     font-family: 'Zen Dots', cursive;
+    text-align: center;
 }
