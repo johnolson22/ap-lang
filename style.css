@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   background-color: rgb(37, 37, 37);
   /*
@@ -17,3 +18,14 @@ h1 {
   font-family: "Zen Dots", cursive;
   text-align: center;
 }
+=======
+body{
+    background:url("http://www.destadesign.com/destacms/images/background_border_left.png") left repeat-y,url("http://www.destadesign.com/destacms/images/background_border_right.png") right repeat-y;
+}
+
+h1{
+    color: rgb(165, 1, 1);
+    font-family: 'Zen Dots', cursive;
+    text-align: center;
+}
+>>>>>>> 8365ba09cf4dc916d769033f42704619f0de526c
