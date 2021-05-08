@@ -1,3 +1,19 @@
-p{
-    color:red;
+body {
+  background-color: rgb(37, 37, 37);
+  /*
+    background: url("http://www.destadesign.com/destacms/images/background_border_left.png")
+      left repeat-y,
+    url("http://www.destadesign.com/destacms/images/background_border_right.png")
+      right repeat-y;
+    */
+}
+
+img {
+  float: right;
+}
+
+h1 {
+  color: rgb(165, 1, 1);
+  font-family: "Zen Dots", cursive;
+  text-align: center;
 }
